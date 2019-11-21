@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site metodo",
+    "name": "My Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,15 +43,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 24,
-    "versionPublish": "4.11.6",
-    "favicon": "@PROJECT_PATH@/assets/images/tp2-128x128.png",
-    "noImageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "versionPublish": "4.11.6"
   },
   "pages": {
     "index.html": {
